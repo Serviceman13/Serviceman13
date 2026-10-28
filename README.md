@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello, I'm Shakeem 👋
+I'm a student learning python. APIs, and interoperability tools. 
 
-<!--
-**Serviceman13/Serviceman13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tools & Languages
+- Python
+- Anaconda
+- Jupyter Notebook
+- VS Code
+- Github
 
-Here are some ideas to get you started:
+### Github
+![Github](github.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Anaconda
+![Anaconda](anaconda.png)
+
+### Jupyter
+![Jupyter Notebook](jupyter.png)
+
+### VS Code
+![VS Code](vscode.png)
+
